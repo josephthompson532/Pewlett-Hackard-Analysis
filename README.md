@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview
-In this module we used SQL (Structure Query Language) to query our database in Postgres. This entailed using SELECT, ORDER BY, FROM, INTO, JOIN, WHERE, AND DISTINCT ON statements.
+In this module I used SQL (Structure Query Language) to query a database in Postgres. This entailed using SELECT, ORDER BY, FROM, INTO, JOIN, WHERE, AND DISTINCT ON statements.
 
 ### Purpose
 The purpose of this task was to find out the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
